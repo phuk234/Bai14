@@ -1,0 +1,5 @@
+com.se.config.SpringConfig=org.springframework.stereotype.Component
+com.se.controller.HomeController=org.springframework.stereotype.Component
+com.se.dao.BookDaoImpl=org.springframework.stereotype.Component
+com.se.entity.Book=javax.persistence.Entity,javax.persistence.Table
+com.se.service.BookServiceImpl=org.springframework.stereotype.Component
